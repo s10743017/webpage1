@@ -23,6 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+cd xiang-note.github.io
+
+# ~/xiang-note.github.io
+echo "Today is 2020/04/29. Now is 16:03" > index.html
+
 [Link](url) and ![Image](src)
 ```
 
